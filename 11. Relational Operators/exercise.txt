@@ -1,0 +1,8 @@
+if time < 12
+    morning
+elsif time < 18
+    afternoon
+else
+    evening
+
+{try to implement the above psudo code in c programming}
